@@ -27,7 +27,7 @@ Add some info about the page
 
 ## Contributors
 
-- add contributors here
+- Albert Lee
 
 ## What is the Project?
 
